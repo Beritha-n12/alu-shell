@@ -1,2 +1,2 @@
-printing
-why?
+#!/bin/bash
+This is script for printing
