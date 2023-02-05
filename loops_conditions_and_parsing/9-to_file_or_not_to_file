@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#bash script that gives you information about the holbertonschool file
+#This is bash script that gives you information about the holbertonschool file
 found=0
 for file in *; do
     if [ "$file" == "holbertonschool" ]

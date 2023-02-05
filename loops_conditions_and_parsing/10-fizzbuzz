@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#bash script that displays numbers from 1 to 100
+#This is bash script that displays numbers from 1 to 100
 number=1
 while [ $number -lt 101 ]; do
     if [ $((number % 5)) == 0 ] && [ $((number % 3)) == 0 ]; then
